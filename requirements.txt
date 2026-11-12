@@ -1,0 +1,7 @@
+# Tested with Python 3.13.5. For CPU-only JAX replace jax[cuda12] with jax.
+jax[cuda12]==0.4.34
+equinox==0.11.5
+optax==0.2.5
+numpy==2.3.2
+scipy==1.16.1
+tensorboardX==2.6.4
